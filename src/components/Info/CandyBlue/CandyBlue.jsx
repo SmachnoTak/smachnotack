@@ -3,7 +3,7 @@ export default function CandyBlue() {
     <img
       src="images/candyBlue.png"
       alt="Blue candy"
-      className="absolute bottom-14 md:bottom-0 w-[199px] md:right-0"
+      className="absolute bottom-[62px] md:bottom-0 w-[199px]  md:right-0"
     />
   );
 }

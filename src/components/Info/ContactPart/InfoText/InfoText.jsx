@@ -1,8 +1,8 @@
 export default function InfoText() {
   return (
-    <article className="text-center flex flex-col gap-2 mb-4! md:mt-10! md:items-center">
+    <article className="text-center flex flex-col lg-4! lg:mt-10! lg:items-center md:">
       <h1
-        className="font-[Pattaya] font-normal! text-4xl! w-full md:text-7xl! md:mb-4!"
+        className="font-[Pattaya] font-normal! text-4xl! w-full lg:text-7xl! lg:mb-4! md:text-5xl!"
         style={{ color: "#1FADDB" }}
       >
         Сайт в розробці
