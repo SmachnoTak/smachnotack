@@ -3,7 +3,7 @@ import Info from "../../components/Info";
 export default function Home() {
   return (
     <main
-      className="  min-w-screen min-h-screen flex  justify-center py-[16%]! md:pb-[5%]! md:pt-[4%]! sm:py-[5%]!"
+      className="  min-w-screen min-h-screen flex  justify-center py-10! md:pb-12! md:pt-10! sm:py-[5%]!"
       style={{ background: "#69C3FA" }}
     >
       <Info />
