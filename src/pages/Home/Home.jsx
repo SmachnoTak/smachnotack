@@ -8,7 +8,7 @@ export default function Home() {
     >
       <Info />
       <p
-        className="absolute bottom-2 font-[Raleway] text-sm lg:bottom-25 md:bottom-2"
+        className="absolute -bottom-5 font-[Raleway] text-sm lg:bottom-25 md:bottom-2"
         style={{ color: "#323030" }}
       >
         © 2025 ТМ СмачноТак!
