@@ -1,6 +1,6 @@
 <svg display="none" xmlns="https://www.w3.org/2000/svg" >
 
-<symbol id="label" width="203" height="203" viewBox="0 0 203 203" fill="none" xmlns="http://www.w3.org/2000/svg">
+<symbol id="label" viewBox="0 0 203 203" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="101.5" cy="101.5" r="101.5" fill="white"/>
 <circle cx="101.218" cy="101.218" r="87.1208" fill="#69C3FA"/>
 <path d="M79.9601 122.212C78.2619 120.642 76.3064 123.305 77.2698 124.961C79.0427 127.276 81.6784 124.062 79.9601 122.212Z" fill="white"/>

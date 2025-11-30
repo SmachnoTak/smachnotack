@@ -2,7 +2,7 @@ export default function Background() {
   return (
     <div
       style={{ background: "#FFFCF8" }}
-      className=" relative w-[90%] lg:w-[97%] h-[95%]! rounded-4xl"
+      className=" relative w-[90%] md:w-[97%]  h-[95%]! rounded-4xl"
     >
       <svg className="absolute h-[95%] top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] md:hidden!">
         <use xlinkHref="favicon/sprites.svg#bg"></use>
