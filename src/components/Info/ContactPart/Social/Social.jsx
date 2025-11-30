@@ -10,13 +10,13 @@ export default function Social() {
         Наразі можете завітати до нас:
       </p>
       <ul className="flex justify-between w-44 mb-4! my-0! mx-auto! md:mx-0!">
-        <SocialLink link="/" img="/public/favicon/viber.svg" />
+        <SocialLink link="/" img="favicon/viber.svg" />
         <SocialLink
           link="https://www.instagram.com/smachno.tak.ua?igsh=NnZpOWdyOHlkcHVz"
-          img="/public/favicon/telegram.svg"
+          img="favicon/telegram.svg"
         />
-        <SocialLink link="/" img="/public/favicon/instagram.svg" />
-        <SocialLink link="/" img="/public/favicon/whatsapp.svg" />
+        <SocialLink link="/" img="favicon/instagram.svg" />
+        <SocialLink link="/" img="favicon/whatsapp.svg" />
       </ul>
     </div>
   );
