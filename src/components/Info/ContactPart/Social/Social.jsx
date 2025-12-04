@@ -2,7 +2,7 @@ import SocialLink from "./SocialLink";
 
 export default function Social() {
   return (
-    <div className="bottom-45 xl:bottom-[115%]! lg:bottom-68! md:absolute md:bottom-47!  md:left-[-19px]! sm:absolute sm:bottom-34! sm:left-3!">
+    <div className="bottom-45 xl:bottom-[135%]! lg:bottom-63! md:absolute md:bottom-45!  md:left-[-19px]! sm:absolute sm:bottom-48! sm:left-0!">
       <p
         className=" font-[Raleway] text-sm! mb-4! xl:text-xl! md:mb-2! md:text-[15px]! sm:text-[11px]!  "
         style={{ color: "#142A36" }}

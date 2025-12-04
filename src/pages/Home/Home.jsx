@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="relative text-center">
       <div
-        className="  min-w-screen min-h-screen flex  justify-center pt-[12%]! pb-[8%]! xl:py-20! md:pb-12! md:pt-10! sm:py-[5%]!"
+        className="  min-w-screen min-h-screen flex  justify-center pt-[12%]! pb-[8%]! xl:py-20! md:pb-12! md:pt-10! sm:pt-[5%]! sm:pb-2!"
         style={{ background: "#69C3FA" }}
       >
         <Info />
