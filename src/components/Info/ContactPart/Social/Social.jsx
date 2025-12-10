@@ -11,7 +11,7 @@ export default function Social() {
       </p>
       <ul className="flex justify-between mb-4! my-0! mx-auto! w-44 xl:w-50!  md:w-50  md:mx-0! sm:w-35">
         <SocialLink
-          link="viber://chat?number=%2B380957554008"
+          link="viber://chat?number=+380957554008"
           img="favicon/viber.svg"
         />
         <SocialLink
